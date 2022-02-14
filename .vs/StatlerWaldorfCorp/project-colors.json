@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "00c3b894-c014-4d3f-9640-e1a4279b7522": {
+      "ProjectGuid": "00c3b894-c014-4d3f-9640-e1a4279b7522",
+      "DisplayName": "StatlerWaldorfCorp.TeamService.Tests",
+      "ColorIndex": 0
+    },
+    "16af8723-f4b7-465c-85f2-be55df58e353": {
+      "ProjectGuid": "16af8723-f4b7-465c-85f2-be55df58e353",
+      "DisplayName": "StatlerWaldorfCorp.TeamService",
+      "ColorIndex": 1
+    },
+    "381b1be6-4277-4d5d-af4d-ef65f1df9aa1": {
+      "ProjectGuid": "381b1be6-4277-4d5d-af4d-ef65f1df9aa1",
+      "DisplayName": "StatlerWaldorfCorp.TeamService.Tests.Integration",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
