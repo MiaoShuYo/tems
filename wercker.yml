@@ -11,7 +11,7 @@ build:
         name: build
         cwd: StatlerWaldorfCorp.TeamService
         code: |
-          dotnet duild
+          dotnet build
     - script:
         name: publish
         cwd: StatlerWaldorfCorp.TeamService
