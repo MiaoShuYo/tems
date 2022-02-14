@@ -40,7 +40,7 @@ build:
 deploy:
   steps:
     - internal/docker-push:
-        cwd: $WERCKER_OUPUT_DIR/app
+        cwd: $WERCKER_OUTPUT_DIR/app
         username: $USERNAME
         password: $PASSWORD
         repository: programercat/teams
