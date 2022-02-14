@@ -45,4 +45,5 @@ deploy:
         password: $PASSWORD
         repository: programercat/teams
         registry: htpps://registry.hub.docker.com
-        entrtpoint: "/pipeline/source/app/docker_entrypoint.sh"
+        entrtpoint: "/pipeline/source/app/docker_entrypoint.sh",
+        ports: "80"
