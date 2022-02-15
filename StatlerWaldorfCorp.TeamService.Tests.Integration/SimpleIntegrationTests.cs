@@ -29,7 +29,7 @@ namespace StatlerWaldorfCorp.TeamService.Tests.Integration
             teamZombie = new Team()
             {
                 ID = Guid.NewGuid(),
-                Name = "Zombie"
+                Name = "Zombie" 
             };
         }
 
