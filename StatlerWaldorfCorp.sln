@@ -7,11 +7,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{448B7637-417
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{784CC1D5-37B1-41A6-99D8-792537F1075F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatlerWaldorfCorp.TeamService", "StatlerWaldorfCorp.TeamService\StatlerWaldorfCorp.TeamService.csproj", "{16AF8723-F4B7-465C-85F2-BE55DF58E353}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StatlerWaldorfCorp.TeamService", "StatlerWaldorfCorp.TeamService\StatlerWaldorfCorp.TeamService.csproj", "{16AF8723-F4B7-465C-85F2-BE55DF58E353}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatlerWaldorfCorp.TeamService.Tests", "StatlerWaldorfCorp.TeamService.Tests\StatlerWaldorfCorp.TeamService.Tests.csproj", "{00C3B894-C014-4D3F-9640-E1A4279B7522}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StatlerWaldorfCorp.TeamService.Tests", "StatlerWaldorfCorp.TeamService.Tests\StatlerWaldorfCorp.TeamService.Tests.csproj", "{00C3B894-C014-4D3F-9640-E1A4279B7522}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatlerWaldorfCorp.TeamService.Tests.Integration", "StatlerWaldorfCorp.TeamService.Tests.Integration\StatlerWaldorfCorp.TeamService.Tests.Integration.csproj", "{381B1BE6-4277-4D5D-AF4D-EF65F1DF9AA1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StatlerWaldorfCorp.TeamService.Tests.Integration", "StatlerWaldorfCorp.TeamService.Tests.Integration\StatlerWaldorfCorp.TeamService.Tests.Integration.csproj", "{381B1BE6-4277-4D5D-AF4D-EF65F1DF9AA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatlerWaldorfCorp.LocationService", "StalterWaldorfCorp.LocationService\StatlerWaldorfCorp.LocationService.csproj", "{11F20AD0-31D8-467C-B7DE-CB7D9C7017CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatlerWaldorfCorp.LocationService.Tests", "StatlerWaldorfCorp.LocationService.Tests\StatlerWaldorfCorp.LocationService.Tests.csproj", "{9794373E-7FEA-430E-9EAB-FD5BA9D642E3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,6 +35,14 @@ Global
 		{381B1BE6-4277-4D5D-AF4D-EF65F1DF9AA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{381B1BE6-4277-4D5D-AF4D-EF65F1DF9AA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{381B1BE6-4277-4D5D-AF4D-EF65F1DF9AA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11F20AD0-31D8-467C-B7DE-CB7D9C7017CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11F20AD0-31D8-467C-B7DE-CB7D9C7017CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11F20AD0-31D8-467C-B7DE-CB7D9C7017CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11F20AD0-31D8-467C-B7DE-CB7D9C7017CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9794373E-7FEA-430E-9EAB-FD5BA9D642E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9794373E-7FEA-430E-9EAB-FD5BA9D642E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9794373E-7FEA-430E-9EAB-FD5BA9D642E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9794373E-7FEA-430E-9EAB-FD5BA9D642E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -39,6 +51,8 @@ Global
 		{16AF8723-F4B7-465C-85F2-BE55DF58E353} = {448B7637-417C-4BB7-9A1D-B66BD80BD807}
 		{00C3B894-C014-4D3F-9640-E1A4279B7522} = {784CC1D5-37B1-41A6-99D8-792537F1075F}
 		{381B1BE6-4277-4D5D-AF4D-EF65F1DF9AA1} = {784CC1D5-37B1-41A6-99D8-792537F1075F}
+		{11F20AD0-31D8-467C-B7DE-CB7D9C7017CD} = {448B7637-417C-4BB7-9A1D-B66BD80BD807}
+		{9794373E-7FEA-430E-9EAB-FD5BA9D642E3} = {784CC1D5-37B1-41A6-99D8-792537F1075F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CE5C8ED4-572F-4F02-B1CE-DE385FB56F02}

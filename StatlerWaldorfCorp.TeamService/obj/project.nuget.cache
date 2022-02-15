@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "OxDaOqq3Wjgg1pxlc6TBahawLhL1Fr763jbv3A5kW6d9e0G2PMRzUt0zBWrIh29ILqP8SFRHwDAIFpvl6B125A==",
+  "dgSpecHash": "YajRl2h3h9D8fhwAjEPvE5H6Mhv+AyvUJnOBlgq5ylXEFZXVeECVXRMkHTa/NWfsKSAReOeZhbfY0CLEhOU6eQ==",
   "success": true,
   "projectFilePath": "D:\\project\\微服务\\01_02\\StatlerWaldorfCorp\\StatlerWaldorfCorp.TeamService\\StatlerWaldorfCorp.TeamService.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Zhu\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
+  ],
   "logs": []
 }

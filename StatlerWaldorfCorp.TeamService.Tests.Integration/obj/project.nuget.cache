@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "tgH0L4dnIjWVzI8u1pzzzBzS6FhR9N5QuEa/7GqOT3jfL2OfV/OJdtdYVxK0s/AnTaUuQ3eKeyC7xt3J9RRhDg==",
+  "dgSpecHash": "Gh5RH5XXL2mrc3UbKpfW8PBpiPzg0CCcO5UqsP223A61Q4LL6w3p+5FdGiOlJW5Zblgfvt4uGsCCmwdg3BW7hg==",
   "success": true,
   "projectFilePath": "D:\\project\\微服务\\01_02\\StatlerWaldorfCorp\\StatlerWaldorfCorp.TeamService.Tests.Integration\\StatlerWaldorfCorp.TeamService.Tests.Integration.csproj",
   "expectedPackageFiles": [
@@ -30,6 +30,7 @@
     "C:\\Users\\Zhu\\.nuget\\packages\\microsoft.net.http.headers\\1.0.0\\microsoft.net.http.headers.1.0.0.nupkg.sha512",
     "C:\\Users\\Zhu\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Zhu\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Zhu\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512",
     "C:\\Users\\Zhu\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\Zhu\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
     "C:\\Users\\Zhu\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",

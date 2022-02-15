@@ -7,7 +7,6 @@ D:\project\微服务\01_02\StatlerWaldorfCorp\StatlerWaldorfCorp.TeamService\bin
 D:\project\微服务\01_02\StatlerWaldorfCorp\StatlerWaldorfCorp.TeamService\bin\Debug\net5.0\StatlerWaldorfCorp.TeamService.dll
 D:\project\微服务\01_02\StatlerWaldorfCorp\StatlerWaldorfCorp.TeamService\bin\Debug\net5.0\ref\StatlerWaldorfCorp.TeamService.dll
 D:\project\微服务\01_02\StatlerWaldorfCorp\StatlerWaldorfCorp.TeamService\bin\Debug\net5.0\StatlerWaldorfCorp.TeamService.pdb
-D:\project\微服务\01_02\StatlerWaldorfCorp\StatlerWaldorfCorp.TeamService\obj\Debug\net5.0\StatlerWaldorfCorp.TeamService.csproj.AssemblyReference.cache
 D:\project\微服务\01_02\StatlerWaldorfCorp\StatlerWaldorfCorp.TeamService\obj\Debug\net5.0\StatlerWaldorfCorp.TeamService.GeneratedMSBuildEditorConfig.editorconfig
 D:\project\微服务\01_02\StatlerWaldorfCorp\StatlerWaldorfCorp.TeamService\obj\Debug\net5.0\StatlerWaldorfCorp.TeamService.AssemblyInfoInputs.cache
 D:\project\微服务\01_02\StatlerWaldorfCorp\StatlerWaldorfCorp.TeamService\obj\Debug\net5.0\StatlerWaldorfCorp.TeamService.AssemblyInfo.cs
